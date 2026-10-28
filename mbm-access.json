@@ -1,12 +1,12 @@
 {
  "kind": "testolog-access",
  "v": 2,
- "data": "{\"v\":2,\"salt\":\"sfHMj+7JvDWnuKrBkoh3NA==\",\"policy\":{\"newUsers\":\"wait\",\"basic\":{\"claude\":[],\"chatgpt\":[],\"gemini\":[]}},\"users\":[{\"h\":\"55f0f5182ce294d4de35f2e2e6355667c06d619cd2bb08679633c99e76142dc1\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]},{\"h\":\"7b4b6641543042d84c7f52e4868d9710c8155fa38ff5908c003dd9bb22aae963\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]}],\"admin\":{\"name\":\"Zuhra\",\"h\":\"5d40a1fe4fff26515e0fa1d0bfe5a8f15c707963f18fdcb49ac2d3e490d0aeed\"},\"contact\":\"zuratuychiyeva@gmail.com\",\"repo\":\"zuratuychiyeva-blip/mbm\",\"proxy\":\"https://mbm-proxy.mbm-cff69838.workers.dev\",\"proxyEngines\":[\"chatgpt\"],\"issued\":1793174846349}",
+ "data": "{\"v\":2,\"salt\":\"DyukksnTY3QoeOmbyOw6fg==\",\"policy\":{\"newUsers\":\"wait\",\"basic\":{\"claude\":[],\"chatgpt\":[],\"gemini\":[]}},\"users\":[{\"h\":\"cf04b11e5e4bab82375d8dcfd6e54963475fe69a51a2e55e73b0c3dfb3e4a180\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]},{\"h\":\"b905959ccc075f9a935a022d4fd0b370f5dd21999aababd886ad6776a30831e3\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]}],\"admin\":{\"name\":\"Zuhra\",\"h\":\"769506cdc4329def97fa06f3ead2285dcc811a4b7b5d6d9a20cbca627c179035\"},\"contact\":\"zuratuychiyeva@gmail.com\",\"repo\":\"zuratuychiyeva-blip/mbm\",\"proxy\":\"\",\"proxyEngines\":[],\"issued\":1793177825143}",
  "pub": {
   "kty": "EC",
   "crv": "P-256",
   "x": "tJnS4g6GfLZ6LlR0YqQ4dR1Y7hSRwPDDfcFAXiOcHbQ",
   "y": "QDLEZYrBqkde8-DXd5XtFUPLwCP2mVTcDlXb0MREyPk"
  },
- "sig": "QpCOtXBWiKz3B60OO4QbAAsgnOE0I8dge0yL4fK6+c46RPbvsqqDXSRc+ajKoruxRP9iyylgJQDf8fxG9cMz4A=="
+ "sig": "zxSOsiDi0HQxt0sP/+jNxE3vZWGFHkVw9KPZ/fshUMFgZM7hj3b6t2eZ4qhyxgFZ8p5jMcjc8m4h4r/8AHzkOA=="
 }
