@@ -1,12 +1,12 @@
 {
  "kind": "testolog-access",
  "v": 2,
- "data": "{\"v\":2,\"salt\":\"DyukksnTY3QoeOmbyOw6fg==\",\"policy\":{\"newUsers\":\"wait\",\"basic\":{\"claude\":[],\"chatgpt\":[],\"gemini\":[]}},\"users\":[{\"h\":\"cf04b11e5e4bab82375d8dcfd6e54963475fe69a51a2e55e73b0c3dfb3e4a180\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]},{\"h\":\"b905959ccc075f9a935a022d4fd0b370f5dd21999aababd886ad6776a30831e3\",\"models\":{\"claude\":[\"*\"],\"chatgpt\":[\"*\"],\"gemini\":[\"*\"]},\"devs\":[]}],\"admin\":{\"name\":\"Zuhra\",\"h\":\"769506cdc4329def97fa06f3ead2285dcc811a4b7b5d6d9a20cbca627c179035\"},\"contact\":\"zuratuychiyeva@gmail.com\",\"repo\":\"zuratuychiyeva-blip/mbm\",\"proxy\":\"\",\"proxyEngines\":[],\"issued\":1793177825143}",
+ "data": "{\"v\":2,\"salt\":\"vXSfMc9TYLc5emX0Je1Z7Q==\",\"policy\":{\"newUsers\":\"wait\",\"basic\":{\"claude\":[],\"chatgpt\":[],\"gemini\":[]}},\"users\":[],\"admin\":{\"name\":\"Zuhra\",\"h\":\"fce424d814f5df469a6c867e65c6819f1fa289470dfafdf3f04fe6fd601f3ed7\"},\"contact\":\"zuratuychiyeva@gmail.com\",\"repo\":\"zuratuychiyeva-blip/mbm\",\"proxy\":\"\",\"proxyEngines\":[],\"issued\":1793948240180}",
  "pub": {
   "kty": "EC",
   "crv": "P-256",
   "x": "tJnS4g6GfLZ6LlR0YqQ4dR1Y7hSRwPDDfcFAXiOcHbQ",
   "y": "QDLEZYrBqkde8-DXd5XtFUPLwCP2mVTcDlXb0MREyPk"
  },
- "sig": "zxSOsiDi0HQxt0sP/+jNxE3vZWGFHkVw9KPZ/fshUMFgZM7hj3b6t2eZ4qhyxgFZ8p5jMcjc8m4h4r/8AHzkOA=="
+ "sig": "NlRULRBEyNcCZcNv02o/X2HeOD1Tg2ku0oWk1pcVc5ot/atUorynROoyRLpVyyvhKjh/kG9iGHCj7vuPvqAX+A=="
 }
